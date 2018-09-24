@@ -1,0 +1,13 @@
+C:\Fontes\TesteEveris - BACKEND\TesteEveris\TesteEveris.Application\bin\Debug\TesteEveris.Application.dll
+C:\Fontes\TesteEveris - BACKEND\TesteEveris\TesteEveris.Application\bin\Debug\TesteEveris.Application.pdb
+C:\Fontes\TesteEveris - BACKEND\TesteEveris\TesteEveris.Application\bin\Debug\TesteEveris.Domain.dll
+C:\Fontes\TesteEveris - BACKEND\TesteEveris\TesteEveris.Application\bin\Debug\TesteEveris.Repository.dll
+C:\Fontes\TesteEveris - BACKEND\TesteEveris\TesteEveris.Application\bin\Debug\TesteEveris.Utils.dll
+C:\Fontes\TesteEveris - BACKEND\TesteEveris\TesteEveris.Application\bin\Debug\EntityFramework.dll
+C:\Fontes\TesteEveris - BACKEND\TesteEveris\TesteEveris.Application\bin\Debug\TesteEveris.Domain.pdb
+C:\Fontes\TesteEveris - BACKEND\TesteEveris\TesteEveris.Application\bin\Debug\TesteEveris.Repository.pdb
+C:\Fontes\TesteEveris - BACKEND\TesteEveris\TesteEveris.Application\bin\Debug\TesteEveris.Utils.pdb
+C:\Fontes\TesteEveris - BACKEND\TesteEveris\TesteEveris.Application\bin\Debug\EntityFramework.xml
+C:\Fontes\TesteEveris - BACKEND\TesteEveris\TesteEveris.Application\obj\Debug\TesteEveris.Application.csprojResolveAssemblyReference.cache
+C:\Fontes\TesteEveris - BACKEND\TesteEveris\TesteEveris.Application\obj\Debug\TesteEveris.Application.dll
+C:\Fontes\TesteEveris - BACKEND\TesteEveris\TesteEveris.Application\obj\Debug\TesteEveris.Application.pdb

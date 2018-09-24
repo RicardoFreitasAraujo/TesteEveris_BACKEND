@@ -1,0 +1,4 @@
+C:\Fontes\TesteEveris - BACKEND\TesteEveris\TesteEveris.Domain\bin\Debug\TesteEveris.Domain.dll
+C:\Fontes\TesteEveris - BACKEND\TesteEveris\TesteEveris.Domain\bin\Debug\TesteEveris.Domain.pdb
+C:\Fontes\TesteEveris - BACKEND\TesteEveris\TesteEveris.Domain\obj\Debug\TesteEveris.Domain.dll
+C:\Fontes\TesteEveris - BACKEND\TesteEveris\TesteEveris.Domain\obj\Debug\TesteEveris.Domain.pdb

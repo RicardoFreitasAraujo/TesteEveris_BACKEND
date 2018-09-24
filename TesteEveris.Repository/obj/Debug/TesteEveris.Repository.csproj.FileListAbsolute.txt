@@ -1,0 +1,12 @@
+C:\Fontes\TesteEveris - BACKEND\TesteEveris\TesteEveris.Repository\bin\Debug\TesteEveris.Repository.dll.config
+C:\Fontes\TesteEveris - BACKEND\TesteEveris\TesteEveris.Repository\bin\Debug\TesteEveris.Repository.dll
+C:\Fontes\TesteEveris - BACKEND\TesteEveris\TesteEveris.Repository\bin\Debug\TesteEveris.Repository.pdb
+C:\Fontes\TesteEveris - BACKEND\TesteEveris\TesteEveris.Repository\bin\Debug\EntityFramework.dll
+C:\Fontes\TesteEveris - BACKEND\TesteEveris\TesteEveris.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Fontes\TesteEveris - BACKEND\TesteEveris\TesteEveris.Repository\bin\Debug\TesteEveris.Domain.dll
+C:\Fontes\TesteEveris - BACKEND\TesteEveris\TesteEveris.Repository\bin\Debug\TesteEveris.Domain.pdb
+C:\Fontes\TesteEveris - BACKEND\TesteEveris\TesteEveris.Repository\bin\Debug\EntityFramework.xml
+C:\Fontes\TesteEveris - BACKEND\TesteEveris\TesteEveris.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Fontes\TesteEveris - BACKEND\TesteEveris\TesteEveris.Repository\obj\Debug\TesteEveris.Repository.csprojResolveAssemblyReference.cache
+C:\Fontes\TesteEveris - BACKEND\TesteEveris\TesteEveris.Repository\obj\Debug\TesteEveris.Repository.dll
+C:\Fontes\TesteEveris - BACKEND\TesteEveris\TesteEveris.Repository\obj\Debug\TesteEveris.Repository.pdb

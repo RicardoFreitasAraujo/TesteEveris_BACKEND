@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteEveris.Domain", "TesteEveris.Domain\TesteEveris.Domain.csproj", "{2A2E914E-CD06-4970-93AB-CE9860826ADE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteEveris.Repository", "TesteEveris.Repository\TesteEveris.Repository.csproj", "{249C91EA-794C-4864-A620-86494147796D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteEveris.Utils", "TesteEveris.Utils\TesteEveris.Utils.csproj", "{A0C9A337-96A0-4B58-98BD-FCEBEFF91B1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteEveris.Application", "TesteEveris.Application\TesteEveris.Application.csproj", "{182236FE-FDF4-4B7A-B86E-9307918F8A34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteEveris.Web", "TesteEveris.Web\TesteEveris.Web.csproj", "{BB66AEBB-AE4E-40ED-9662-E92C91B99DAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteEveris.Web.Tests", "TesteEveris.Web.Tests\TesteEveris.Web.Tests.csproj", "{6CF1E89E-2FFF-40D4-BA69-62EA7F964974}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A2E914E-CD06-4970-93AB-CE9860826ADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A2E914E-CD06-4970-93AB-CE9860826ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A2E914E-CD06-4970-93AB-CE9860826ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A2E914E-CD06-4970-93AB-CE9860826ADE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{249C91EA-794C-4864-A620-86494147796D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{249C91EA-794C-4864-A620-86494147796D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{249C91EA-794C-4864-A620-86494147796D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{249C91EA-794C-4864-A620-86494147796D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0C9A337-96A0-4B58-98BD-FCEBEFF91B1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0C9A337-96A0-4B58-98BD-FCEBEFF91B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0C9A337-96A0-4B58-98BD-FCEBEFF91B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0C9A337-96A0-4B58-98BD-FCEBEFF91B1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{182236FE-FDF4-4B7A-B86E-9307918F8A34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{182236FE-FDF4-4B7A-B86E-9307918F8A34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{182236FE-FDF4-4B7A-B86E-9307918F8A34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{182236FE-FDF4-4B7A-B86E-9307918F8A34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB66AEBB-AE4E-40ED-9662-E92C91B99DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB66AEBB-AE4E-40ED-9662-E92C91B99DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB66AEBB-AE4E-40ED-9662-E92C91B99DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB66AEBB-AE4E-40ED-9662-E92C91B99DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CF1E89E-2FFF-40D4-BA69-62EA7F964974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CF1E89E-2FFF-40D4-BA69-62EA7F964974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CF1E89E-2FFF-40D4-BA69-62EA7F964974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CF1E89E-2FFF-40D4-BA69-62EA7F964974}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

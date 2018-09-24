@@ -1,0 +1,4 @@
+C:\Fontes\TesteEveris - BACKEND\TesteEveris\TesteEveris.Utils\bin\Debug\TesteEveris.Utils.dll
+C:\Fontes\TesteEveris - BACKEND\TesteEveris\TesteEveris.Utils\bin\Debug\TesteEveris.Utils.pdb
+C:\Fontes\TesteEveris - BACKEND\TesteEveris\TesteEveris.Utils\obj\Debug\TesteEveris.Utils.dll
+C:\Fontes\TesteEveris - BACKEND\TesteEveris\TesteEveris.Utils\obj\Debug\TesteEveris.Utils.pdb

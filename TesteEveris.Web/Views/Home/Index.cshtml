@@ -1,0 +1,75 @@
+﻿<div class="row">
+    <div class="col-md-6">
+        <center>
+            <img src="~/img/image.png" class="img-responsive" alt="API"/>
+        </center>
+    </div>
+    <div class="col-md-6">
+        <br />
+        <h3>Prezado Avaliador(a),</h3>
+
+        <p>
+            Este projeto trata-se de uma simples API para um CRUD de Pedidos, neste projeto foi utilizado um pouco de <b>DDD</b> 
+            (<i>Driven Domain Design</i>), <b>SOLID</b>, <b>entity framework Code First</b> e outras coisas.
+        </p>
+
+        <p>
+            Por favor , altere a <b>connectionstring no web.config</b> do projeto <b>TesteEveris.Web</b>. 
+            Ao criar o banco de dados alguns dados serão inseridos automaticamente.
+        </p>
+    </div>
+</div>
+
+<br />
+<br />
+
+<div class="row">
+    <div class="col-md-12">
+        <p>Segue abaixo as URLS da api de pedidos:</p>
+        <table class="table table-responsive table-striped">
+            <thead>
+                <tr>
+                    <th>Descrição</th>
+                    <th>URL</th>
+                    <th>Método HTTP</th>
+                    <th>Parâmetros</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Retornar todo os pedidos cadastrados.</td>
+                    <td>api/pedidos</td>
+                    <td><span class="badge">GET</span></td>
+                    <td>nenhum</td>
+                </tr>
+                <tr>
+                    <td>Retornar apenas um único pedidos conforme id.</td>
+                    <td>api/pedidos/<b>{id}</b></td>
+                    <td><span class="badge">GET</span></td>
+                    <td><b>id</b> - id do pedido a ser retornado.</td>
+                </tr>
+                <tr>
+                    <td>Inserir um pedido.</td>
+                    <td>api/pedidos</td>
+                    <td><span class="badge">POST</span></td>
+                    <td>JSON do pedido conforme documento do teste.</td>
+                </tr>
+                <tr>
+                    <td>Editar um pedido.</td>
+                    <td>api/pedidos</td>
+                    <td><span class="badge">PUT</span></td>
+                    <td>JSON do pedido conforme documento do teste.</td>
+                </tr>
+                <tr>
+                    <td>Excluir um pedido conforme id.</td>
+                    <td>api/pedidos/<b>{id}</b></td>
+                    <td><span class="badge">DELETE</span></td>
+                    <td><b>id</b> - id do pedido a ser excluído.</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+
